@@ -102,3 +102,58 @@
   color: #fff;
 } 
 
+.container {
+  text-align: center;
+}
+
+h1 {
+  font-size: 2em;
+  margin-top: 72px;
+  margin-bottom: 63px;
+}
+
+.services {
+  display: flex;
+  justify-content: center;
+}
+
+.service-1 {
+  font-weight: 600;
+  font-size: 24px;
+  width: 416px;
+  height: 232px;
+  display: flex;
+  margin: 50px 30px;
+  padding: 15px 30px 30px 30px;
+  border-radius: 15px;
+  gap: 20px;
+}
+
+.gray {
+  background-color: #F9F9F9;
+}
+
+.white {
+  background-color: #ffffff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.263);
+}
+
+.Espacios {
+  display: flex;
+  flex-direction: column;
+  row-gap: 16px;
+  text-align: left;
+  text-size-adjust: 50%;
+  padding: 3%;
+}
+
+
+.tercer-cuadro {
+  display: flex;
+  flex-direction: column;
+  row-gap: 16px;
+  width: 328px;
+  height: 44px;
+  font-size: 16px;
+  margin: 10px auto;
+}
