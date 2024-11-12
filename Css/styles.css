@@ -157,3 +157,168 @@ h1 {
   font-size: 16px;
   margin: 10px auto;
 }
+
+.bets_service{
+  background: rgba(0, 88, 84, 0.06);
+  height: 733px;
+  position: relative;
+
+}
+
+.map_best{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.info_bets {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bets_description{
+  padding: 61px 0;
+  width: 518px;
+
+}
+
+.bets_description h2{
+  font-weight: 700;
+  font-size: 40px;
+  text-align: center;
+}
+
+.bets_description p{
+  font-size: 16px;
+  text-align: center;
+  margin: 19px auto;
+}
+
+.cuadros{
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 141px;
+}
+
+.calendar{
+  width: 250px;
+  height: 250px;
+  display: block;
+  background: #ffff;
+  border-radius: 10%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.estadisticas{
+  width: 250px;
+  height: 250px;
+  display: block;
+  background: #ffff;
+  border-radius: 10%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.TRAVEL_HISTORIA{
+  width: 80%;              
+  max-width: 250px;       
+  height: auto;             
+  background: #fff;        
+  border-radius: 10%;       
+  display: flex;            
+  align-items: center;      
+  flex-direction: column;  
+}
+
+.ubicaciones{
+  width: 250px;
+  height: 250px;
+  display: block;
+  background: #ffff;
+  border-radius: 10%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.calendar img {
+  margin: 43px 0 29px 0;
+}
+
+.estadisticas img {
+  margin: 42px 0 32px 0;
+}
+
+.ubicaciones img {
+  margin: 42px 0 35px 0;
+}
+
+.TRAVEL_HISTORIA img {
+  margin: 43px 0 42px 0;
+}
+
+.calendar h2{
+  font-size: 36px ;
+  width: 76px;
+  height: 60px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.estadisticas h2{
+  font-size: 36px ;
+  width: 88px;
+  height: 60px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.ubicaciones h2{
+  font-size: 36px ;
+  width: 102px;
+  height: 60px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.TRAVEL_HISTORIA h2{
+  font-size: 36px ;
+  width: 76px;
+  height: 60px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.calendar p{
+  font-size: 20px;
+  width: 99px;
+  height: 54px;
+  text-align: center;
+}
+
+.estadisticas p{
+  font-size: 20px;
+  width: 91px;
+  height: 54px;
+  text-align: center;
+}
+
+.ubicaciones p{
+  font-size: 20px;
+  width: 126px;
+  height: 27px;
+  text-align: center;
+}
+.TRAVEL_HISTORIA p{
+  font-size: 20px;
+  width: 129px;
+  height: 27;
+  text-align: center;
+}
+
